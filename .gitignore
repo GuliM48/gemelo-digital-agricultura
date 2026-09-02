@@ -6,3 +6,10 @@ backend/app/frontend/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+.venv/
+.pytest_cache/
+__pycache__/
+*.pyc
+.coverage
+htmlcov/
+
